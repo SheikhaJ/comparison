@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dimond pattern PoD/1.0.0": {
+        "runtime": {
+          "dimond pattern PoD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dimond pattern PoD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

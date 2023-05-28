@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\bin\Debug\net6.0\dimond pattern PoD.exe
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\bin\Debug\net6.0\dimond pattern PoD.deps.json
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\bin\Debug\net6.0\dimond pattern PoD.runtimeconfig.json
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\bin\Debug\net6.0\dimond pattern PoD.dll
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\bin\Debug\net6.0\dimond pattern PoD.pdb
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.AssemblyInfo.cs
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.dll
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\refint\dimond pattern PoD.dll
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.pdb
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\dimond pattern PoD.genruntimeconfig.cache
+C:\Users\hp\source\repos\dimond pattern PoD\dimond pattern PoD\obj\Debug\net6.0\ref\dimond pattern PoD.dll
