@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\bin\Debug\net6.0\repeatedValue.exe
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\bin\Debug\net6.0\repeatedValue.deps.json
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\bin\Debug\net6.0\repeatedValue.runtimeconfig.json
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\bin\Debug\net6.0\repeatedValue.dll
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\bin\Debug\net6.0\repeatedValue.pdb
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.AssemblyInfo.cs
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.dll
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\refint\repeatedValue.dll
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.pdb
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\repeatedValue.genruntimeconfig.cache
+C:\Users\hp\source\repos\repeatedValue\repeatedValue\obj\Debug\net6.0\ref\repeatedValue.dll
